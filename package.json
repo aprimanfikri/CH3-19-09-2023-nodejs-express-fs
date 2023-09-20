@@ -2,10 +2,10 @@
   "name": "ch3-09-19-2023-nodejs-express-fs",
   "version": "1.0.1",
   "description": "",
-  "main": "app.js",
+  "main": "server/index.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
   },
   "keywords": [],
   "author": "",
